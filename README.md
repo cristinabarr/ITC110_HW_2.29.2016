@@ -11,3 +11,5 @@ os.chdir() changes current working directory. <br>
 7.) An existing file opened in write mode is erased and completely overwritten. <br>
 8.) The read() method returns the file's entire contents as a single string value. The readlines() method returns a list of strings, where each string is a line from the file's contents. <br>
 9.) A shelf value is like a dictionary values; it has keys and values, along with keys() and values() methods that work similarly to the dictionary methods of the same names.<br>
+
+Multiclipboard program added to this repo as a .py file.
